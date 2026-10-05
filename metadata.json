@@ -1,0 +1,11 @@
+{
+  "name": "AI Ustoz - Uy vazifasi yordamchisi",
+  "description": "Rasmni yuklang — savolni AI yordamida yeching. Matematika, fizika, kimyo va boshqa fanlar bo'yicha bosqichma-bosqich yechimlar.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
